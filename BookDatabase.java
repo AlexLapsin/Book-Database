@@ -1,6 +1,3 @@
-//Alexandru Lapsin CISC 3130
-//Homework 4 part II
-
 import java.util.*;
 
 public class BookDatabase{
