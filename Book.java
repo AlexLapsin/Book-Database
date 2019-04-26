@@ -1,6 +1,3 @@
-//Alexandru Lapsin CISC 3130
-//Homework 4 part I
-
 import java.util.*;
 
 public class Book implements Comparable<Book>{
