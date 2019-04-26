@@ -1,6 +1,3 @@
-//Alexandru Lapsin CISC 3130
-//Homework 4 part III
-
 import java.util.*;
 
 public class Tester {
